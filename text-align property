@@ -1,0 +1,13 @@
+text-align: justify; spaces the text so that each line has equal width.
+
+text-align: center; centers the text
+
+text-align: right; right-aligns the text
+
+And text-align: left; (the default) left-aligns the text
+
+
+width property can specify the width of an element
+height property in CSS
+
+
