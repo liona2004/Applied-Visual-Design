@@ -12,3 +12,5 @@ height property in CSS
 
 
 text-transform
+
+z-index property can specify the order of how elements are stacked on top of one another.
