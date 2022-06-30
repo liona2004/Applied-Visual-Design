@@ -1,0 +1,7 @@
+The alpha value can range from 1, which is fully opaque or a solid color, to 0, which is fully transparent or clear. 
+rgba() is great to use in this case, as it allows you to adjust the opacity.
+rgba stands for:
+  r = red
+  g = green
+  b = blue
+  a = alpha/level of opacity
