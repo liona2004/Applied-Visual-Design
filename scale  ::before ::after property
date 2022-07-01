@@ -1,0 +1,9 @@
+transform property, along with its scale() function.
+transform: scale(1.5);
+
+The next function of the transform property is skewX(), which skews the selected element along its X (horizontal) axis 
+
+
+
+::before creates a pseudo-element that is the first child of the selected element; ::after creates a pseudo-element that is the last child of the selected element
+::before and ::after pseudo-elements are used to make shapes, the content property is still required, but it's set to an empty string.
