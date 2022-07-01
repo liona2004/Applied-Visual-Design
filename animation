@@ -1,0 +1,17 @@
+@keyframes rule controls what happens during that animation
+properties control how the animation should behave 
+
+animation-duration sets the length of time for the animation
+
+button:hover {
+    animation-name: background-color;
+    animation-duration: 500ms;
+  }
+  @keyframes background-color {
+    100% {
+      background-color: #4791d0;
+    }
+  }
+  
+  
+  animation-fill-mode: forwards; the button wont revert back to the original color. button will stay highlighted.
