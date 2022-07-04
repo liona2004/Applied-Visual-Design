@@ -15,3 +15,10 @@ button:hover {
   
   
   animation-fill-mode: forwards; the button wont revert back to the original color. button will stay highlighted.
+
+
+animation-iteration-count run continuously by setting that value to infinite
+
+@keyframes rules or animation-duration to change the rate of animation
+
+animation-timing-function controls how quickly an animated element changes over the duration
