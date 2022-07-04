@@ -22,3 +22,5 @@ animation-iteration-count run continuously by setting that value to infinite
 @keyframes rules or animation-duration to change the rate of animation
 
 animation-timing-function controls how quickly an animated element changes over the duration
+Bezier curves are used with the cubic-bezier function. The shape of the curve represents how the animation plays out. 
+which are always located respectively at the origin (0, 0) and (1, 1) (x1, y1, x2, y2) animation-timing-function: cubic-bezier(0, 0, 0.58, 1);
